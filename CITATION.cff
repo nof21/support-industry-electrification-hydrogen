@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Support codes and dataset for: 'Industrial Energy Efficiency and Decarbonisation via Electrification and Hydrogen'"
+version: 1.8.0
+license: "MIT"
+type: software
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Natanael
+    family-names: Bolson
+    affiliation: University of Birmingham
+    orcid: "https://orcid.org/0000-0002-2375-2657"
