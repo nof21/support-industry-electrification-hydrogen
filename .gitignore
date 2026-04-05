@@ -1,0 +1,13 @@
+### Example user template template
+### Example user template
+# Figures and exported graphics
+*.jpg
+*.jpeg
+*.png
+*.pdf
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
